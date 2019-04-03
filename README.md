@@ -1,2 +1,0 @@
-# TestLibrary
-for educational purposes

@@ -10,14 +10,13 @@ import java.sql.SQLException;
 
 public class DBConnection_LMS_Portal {
 	
-	//This function returns the connection
 	//This function returns the connection	
 	public Connection getConnection(){
 		Connection connection=null;
 		System.out.println("Connection called");
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
-			connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/lms1","root", "root");
+			connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/lms","root", "caSandRa2!");
 		
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();

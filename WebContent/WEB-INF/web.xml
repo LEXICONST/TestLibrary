@@ -10,13 +10,7 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   
-  
-
-		
-			
-			
-			
-			<servlet>
+  			<servlet>
 				    <servlet-name>Issue_Book_Student_Controller</servlet-name>
 				    <jsp-file>/school/admin/issue/controller/Issue_Book_Student_Controller.jsp</jsp-file>
 				</servlet>
@@ -25,11 +19,7 @@
 				    <servlet-name>Issue_Book_Student_Controller</servlet-name>
 				    <url-pattern>/issue-book-student-controller/*</url-pattern>   
 				</servlet-mapping>
-		
-			
-			
-			
-			
+					
 			<servlet>
 				    <servlet-name>Issue_Book_From_Student</servlet-name>
 				    <jsp-file>/school/admin/issue/view/Issue_Book_From_Student.jsp</jsp-file>
@@ -41,16 +31,6 @@
 				</servlet-mapping>
 		
 			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
 			<servlet>
 				    <servlet-name>Delete_Serail_Inventry_Controller</servlet-name>
 				    <jsp-file>/school/admin/inventry/controller/Delete_Serail_Inventry_Controller.jsp</jsp-file>
@@ -60,11 +40,6 @@
 				    <servlet-name>Delete_Serail_Inventry_Controller</servlet-name>
 				    <url-pattern>/delete-serial-controller/*</url-pattern>   
 				</servlet-mapping>
-		
-			
-			
-			
-			
 			
 				<servlet>
 				    <servlet-name>Edit_Profile_Controller</servlet-name>
@@ -76,9 +51,6 @@
 				    <url-pattern>/edit-profile-controller/*</url-pattern>   
 				</servlet-mapping>
 		
-			
-			
-			
 			<servlet>
 				    <servlet-name>Admin_Edit_Profile</servlet-name>
 				    <jsp-file>/school/admin/profile/view/Edit_Profile.jsp</jsp-file>
@@ -89,12 +61,6 @@
 				    <url-pattern>/edit-profile-admin/*</url-pattern>   
 				</servlet-mapping>
 		
-			
-			
-			
-			
-			
-			
 			<servlet>
 				    <servlet-name>View_All_Pending_History</servlet-name>
 				    <jsp-file>/school/admin/issue/view/View_All_Pending_History.jsp</jsp-file>
@@ -105,8 +71,6 @@
 				    <url-pattern>/view-all-pending-issues/*</url-pattern>   
 				</servlet-mapping>
 		
-			
-			
 				<servlet>
 				    <servlet-name>View_All_Students</servlet-name>
 				    <jsp-file>/school/admin/Student/view/View_All_Students.jsp</jsp-file>
@@ -117,15 +81,6 @@
 				    <url-pattern>/view-all-students/*</url-pattern>   
 				</servlet-mapping>
 		
-			
-			
-			
-			
-			
-			
-			
-			
-			
 				<servlet>
 				    <servlet-name>Edit_Author_Controller</servlet-name>
 				    <jsp-file>/school/admin/author/controller/Edit_Author_Controller.jsp</jsp-file>
@@ -135,11 +90,6 @@
 				    <servlet-name>Edit_Author_Controller</servlet-name>
 				    <url-pattern>/edit-author-controller/*</url-pattern>   
 				</servlet-mapping>
-		
-			
-			
-			
-			
 			
 				<servlet>
 				    <servlet-name>Edit_Author</servlet-name>

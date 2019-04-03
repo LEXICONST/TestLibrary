@@ -11,7 +11,7 @@
 		Statement st=con.createStatement(); 
 		ResultSet rs = st.executeQuery("select * from category");
 		
-	    	List li = new ArrayList();
+	    	List li = new ArrayList<String>();
 	    
 			while(rs.next()) 
  			{ 	           

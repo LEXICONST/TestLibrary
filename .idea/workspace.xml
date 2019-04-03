@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f57d089-652d-4c41-bc2e-10783e34b50e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itextpdf_5_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LMS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/bootstrap/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/css/icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/css/icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/calendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/calendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/components.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/datatables.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/datatables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/editor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/feed.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/feed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/forms.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/forms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/jquery-1.4.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/jquery-1.4.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/maps.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/maps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/off-canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/off-canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/sortable.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/sortable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/tasks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/vector.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/vector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/js/widgets.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/js/widgets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/Student/view/Student_Search.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/Student/view/Student_Search.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/Student/view/View_All_Students.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/Student/view/View_All_Students.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/Student/view/search_student_form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/Student/view/search_student_form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/author/view/Add_Author.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/author/view/Add_Author.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/author/view/Edit_Author.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/author/view/Edit_Author.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/author/view/Search_Author.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/author/view/Search_Author.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/book/view/Add_Book.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/book/view/Add_Book.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/book/view/Complete_Details_Of_Book.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/book/view/Complete_Details_Of_Book.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/book/view/Edit_Book.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/book/view/Edit_Book.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/book/view/Search_Book.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/book/view/Search_Book.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/book/view/Search_Book_Bar_Code.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/book/view/Search_Book_Bar_Code.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/book/view/View_All_Book.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/book/view/View_All_Book.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/book/view/search_bar_form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/book/view/search_bar_form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/book/view/search_book_form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/book/view/search_book_form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/book/view/search_category.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/book/view/search_category.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/category/view/Add_Category.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/category/view/Add_Category.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/category/view/Edit_Category.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/category/view/Edit_Category.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/category/view/Search_Category.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/category/view/Search_Category.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/inventry/view/Edit_Inventry_Books.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/inventry/view/Edit_Inventry_Books.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/inventry/view/Edit_Serial_Inventry.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/inventry/view/Edit_Serial_Inventry.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/inventry/view/Inventry_Books.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/inventry/view/Inventry_Books.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/issue/view/Complete_Issue_History.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/issue/view/Complete_Issue_History.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/issue/view/Issue_Book.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/issue/view/Issue_Book.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/issue/view/Issue_Book_From_Student.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/issue/view/Issue_Book_From_Student.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/issue/view/Issue_History.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/issue/view/Issue_History.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/issue/view/Issue_History_Student.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/issue/view/Issue_History_Student.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/issue/view/Search_Issue_History.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/issue/view/Search_Issue_History.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/issue/view/View_All_Pending_History.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/issue/view/View_All_Pending_History.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/school/admin/profile/view/Admin_Home_Page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/school/admin/profile/view/Admin_Home_Page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/signin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/signin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/audioplayer/audioplayer.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/audioplayer/audioplayer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/audioplayer/audioplayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/audioplayer/audioplayer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/bootstrap-datepicker/bootstrap-datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/bootstrap-datepicker/bootstrap-datepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/bootstrap-datepicker/datepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/bootstrap-datepicker/datepicker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/bootstrap-select/bootstrap-select.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/bootstrap-select/bootstrap-select.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/bootstrap-select/bootstrap-select.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/bootstrap-select/bootstrap-select.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/bootstrap-select/bootstrap-select.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/bootstrap-select/bootstrap-select.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/chartjs/Chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/chartjs/Chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/chartjs/Chart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/chartjs/Chart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/datatables/jquery.dataTables.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/datatables/jquery.dataTables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/datatables/jquery.dataTables.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/datatables/jquery.dataTables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/datatables/jquery.dataTables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/datatables/jquery.dataTables.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/datatables/jquery.dataTables_themeroller.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/datatables/jquery.dataTables_themeroller.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/dropzone/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/dropzone/basic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/dropzone/dropzone.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/dropzone/dropzone.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/dropzone/dropzone.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/dropzone/dropzone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/easy-pie-chart/jquery.easypiechart.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/easy-pie-chart/jquery.easypiechart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/easy-pie-chart/jquery.easypiechart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/easy-pie-chart/jquery.easypiechart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/excanvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/excanvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.colorhelpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.colorhelpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.categories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.crosshair.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.crosshair.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.errorbars.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.errorbars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.fillbetween.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.fillbetween.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.image.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.navigate.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.navigate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.orderBars.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.orderBars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.pie.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.pie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.resize.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.resize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.selection.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.selection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.symbol.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.symbol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.threshold.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.threshold.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.time.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/flot/jquery.flot.time.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/fuelux/checkbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/fuelux/checkbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/fuelux/pillbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/fuelux/pillbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/fuelux/radio.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/fuelux/radio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/fuelux/wizard.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/fuelux/wizard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/fullcalendar/fullcalendar.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/fullcalendar/fullcalendar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/fullcalendar/fullcalendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/fullcalendar/fullcalendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/fullcalendar/fullcalendar.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/fullcalendar/fullcalendar.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/fullcalendar/fullcalendar.print.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/fullcalendar/fullcalendar.print.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/fullcalendar/gcal.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/fullcalendar/gcal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/gmaps.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/gmaps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/imagesloaded/imagesloaded.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/imagesloaded/imagesloaded.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/jquery-1.11.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/jquery-1.11.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/jquery-ui.custom.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/jquery-ui.custom.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/jquery.blockUI.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/jquery.blockUI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/jquery.easing.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/jquery.maskedinput.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/jquery.maskedinput.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/jquery.nestable.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/jquery.nestable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/jquery.slimscroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/jquery.slimscroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/jquery.sortable.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/jquery.sortable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/jquery.sparkline.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/jquery.sparkline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/jvectormap/jquery-jvectormap-1.1.1.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/jvectormap/jquery-jvectormap-1.1.1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/jvectormap/jquery-jvectormap-1.1.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/jvectormap/jquery-jvectormap-1.1.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/jvectormap/jquery-jvectormap-1.2.2.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/jvectormap/jquery-jvectormap-1.2.2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/jvectormap/jquery-jvectormap-1.2.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/jvectormap/jquery-jvectormap-1.2.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/masonry/masonry.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/masonry/masonry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/masonry/masonry.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/masonry/masonry.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/medium/classList.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/medium/classList.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/medium/medium-editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/medium/medium-editor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/medium/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/medium/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/modernizr.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/modernizr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/moment.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/moment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/morris/morris.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/morris/morris.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/morris/morris.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/morris/morris.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/nivo-lightbox/nivo-lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/nivo-lightbox/nivo-lightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/nivo-lightbox/nivo-lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/nivo-lightbox/nivo-lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/nivo-lightbox/nivo-lightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/nivo-lightbox/nivo-lightbox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/nivo-lightbox/themes/default/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/nivo-lightbox/themes/default/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/offline/offline.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/offline/offline.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/offline/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/offline/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/parsley.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/parsley.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/prettify.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/prettify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/raphael.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/raphael.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/responsive-tables/responsive-tables.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/responsive-tables/responsive-tables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/responsive-tables/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/responsive-tables/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/skycons.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/skycons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/slider/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/slider/slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/switchery/switchery.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/switchery/switchery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/table-sortable/sortable.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/table-sortable/sortable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/table-sortable/sortable.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/table-sortable/sortable.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/table-sortable/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/table-sortable/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/toastr/toastr.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/toastr/toastr.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/toastr/toastr.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/toastr/toastr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/toastr/toastr.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/toastr/toastr.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/video-js/font/vjs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/video-js/font/vjs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/video-js/video-js.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/video-js/video-js.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/video-js/video-js.less" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/video-js/video-js.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/video-js/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/video-js/video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/wysiwyg/bootstrap-wysiwyg.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/wysiwyg/bootstrap-wysiwyg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/vendor/wysiwyg/jquery.hotkeys.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/vendor/wysiwyg/jquery.hotkeys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/DBConnection_LMS_Portal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/DBConnection_LMS_Portal.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/my_main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/common/DBConnection_LMS_Portal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/common/DBConnection_LMS_Portal.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="300" />
+    <option name="y" value="35" />
+    <option name="width" value="625" />
+    <option name="height" value="795" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestLibrary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554300601907" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="my_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="common.my_main" />
+      <module name="LMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.my_main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f57d089-652d-4c41-bc2e-10783e34b50e" name="Default Changelist" comment="" />
+      <created>1554297749874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554297749874</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.4986577" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.35167786" side_tool="true" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64832217" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/common/my_main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/DBConnection_LMS_Portal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
